@@ -1,4 +1,4 @@
-# A Huge Number of Go Examples, Exercises and Quizzes
+# A Huge Number of Go Examples, Exercises and Quizzes That You Will Love!
 
 Best way of learning is doing. Inside this repository, you will find thousands of Go examples, exercises and quizzes.
 
